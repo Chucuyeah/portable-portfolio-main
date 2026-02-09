@@ -1,7 +1,7 @@
 ## Laundry APP
 Laundry APP adalah aplikasi pemesanan laundry berbasis React Native dengan fitur CRUD yang memudahkan pengguna untuk memesan layanan laundry secara online. Aplikasi ini dilengkapi dengan halaman login, daftar layanan, detail paket, hingga profil pengguna, sehingga menghadirkan pengalaman pemesanan yang praktis dan efisien.
 - ![400x200](../assets/poster.png)
-- Tags: Category 1
+- Tags: Category 2
 - Badges:
   - React Native [green]
   - PHP [orange]
@@ -12,7 +12,7 @@ Laundry APP adalah aplikasi pemesanan laundry berbasis React Native dengan fitur
 ## Aplikasi Deteksi Spam dan Non Spam Komentar Web DPMPTS
 Aplikasi ini menggunakan model klasifikasi berbasis SVM untuk mendeteksi komentar spam dan non-spam pada website DPMPTSP Kabupaten Sidoarjo. Sistem dilengkapi dengan antarmuka React.js dan backend PHP, sehingga mampu menampilkan hasil klasifikasi secara real-time dengan tingkat akurasi 98.7% dan F1-Score 0.99.
 - ![400x200](../assets/spam.png)
-- Tags: Category 2
+- Tags: Category 1
 - Badges:
   - React.JS [green]
   - PHP [orange]
