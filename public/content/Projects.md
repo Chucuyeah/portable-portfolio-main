@@ -5,7 +5,7 @@ Laundry APP adalah aplikasi pemesanan laundry berbasis React Native dengan fitur
 - Badges:
   - React Native [green]
   - PHP [orange]
-  - HTML [blue]
+  - HTML [red]
 - Buttons:
   - Link [https://github.com/Chucuyeah/Laundry-App]
 
@@ -16,13 +16,19 @@ Aplikasi ini menggunakan model klasifikasi berbasis SVM untuk mendeteksi komenta
 - Badges:
   - React.JS [green]
   - PHP [orange]
-  - HTML [blue]
+  - HTML [red]
 - Buttons:
   - Link [https://github.com/Chucuyeah/spam-app]
 
-## Desain UI/UX Website DPMPTSP Kab.Sidoarjo
-Desain UI/UX Figma untuk website DPMPTSP Sidoarjo menampilkan tampilan modern, rapi, dan informatif dengan navigasi yang jelas untuk memudahkan akses layanan dan informasi publik. Penggunaan warna hijau memperkuat identitas instansi serta menciptakan kesan profesional, responsif, dan ramah pengguna.
-- ![200x200](../assets/UIUX.png)
+## Movie Search Web App (Integrasi OMDb API)
+Aplikasi web pencarian film yang dibangun menggunakan Laravel dengan integrasi OMDb API untuk mengambil data film secara real-time. Aplikasi ini memungkinkan pengguna untuk mencari film berdasarkan judul, memfilter berdasarkan tahun dan tipe film, serta menampilkan poster dan informasi film melalui antarmuka yang sederhana dan responsif.
+- ![200x200](../assets/OMDb.png)
 - Tags: Category 3
 - Badges:
-  - UI/UX [yellow]
+  - Larafel [purple]
+  - PHP [orange]
+  - HTML [red]
+  - Boostrap [blue]
+- Buttons:
+  - Link [https://github.com/Chucuyeah/movie-app-laravel5-API-OMDb]
+  - Demo [movie-app-chucuyeah.up.railway.app]
