@@ -31,4 +31,4 @@ Aplikasi web pencarian film yang dibangun menggunakan Laravel dengan integrasi O
   - Boostrap [blue]
 - Buttons:
   - Link [https://github.com/Chucuyeah/movie-app-laravel5-API-OMDb]
-  - Demo [movie-app-chucuyeah.up.railway.app]
+  - Demo [https://movie-app-chucuyeah.up.railway.app]
